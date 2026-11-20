@@ -1,0 +1,7 @@
+# Local temporary files
+web-old.yaml
+
+# Editor / OS files
+.vscode/
+.DS_Store
+Thumbs.db
